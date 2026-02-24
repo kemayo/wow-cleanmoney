@@ -1,4 +1,4 @@
-# CleanMoney
+# MoneyLaundering
 
 This addon takes the sell price lines in all tooltips and turns them into a cleaner display, using either letters or inline symbols.
 
@@ -12,4 +12,4 @@ Just install it.
 
 There's one command:
 
-`/cleanmoney coins` - toggle the display mode between letters and symbols
+`/moneylaundering coins` - toggle the display mode between letters and symbols
