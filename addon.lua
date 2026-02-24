@@ -8,6 +8,7 @@ local SILVER_ATLAS = CreateAtlasMarkup("Coin-Silver", X, X, 3)
 local COPPER_ATLAS = CreateAtlasMarkup("Coin-Copper", X, X, 3)
 
 local function copperToPrettyMoney(c, coins)
+    -- technically, could just `if coins then return GetMoneyString(c) end`
     local G, S, C
     if coins then
         G, S, C = GOLD_ATLAS, SILVER_ATLAS, COPPER_ATLAS

@@ -1,11 +1,11 @@
 ## Interface: 120001, 120000
-## Title: CleanMoney
+## Title: MoneyLaundering
 ## Notes: Make tooltip money display cleaner
 ## Author: Kemayo
 ## Version: @project-version@
 ## IconAtlas: Coin-Gold
 ## DefaultState: enabled
-## SavedVariables: CleanMoneyDB
+## SavedVariables: MoneyLaunderingDB
 ## X-eMail: kemayo @ gmail DOT com
 ## X-Curse-Project-ID: 1470569
 ## X-Wago-ID: 
